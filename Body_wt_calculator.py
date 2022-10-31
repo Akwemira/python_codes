@@ -1,3 +1,4 @@
+#This code converts a user's weight given in pounds to kilograms as a float with 3 decimals
 weight_in_pounds = float(input("What is your weight in pounds?:\n\n"))
 weight_in_kilograms = float(weight_in_pounds / 2.205)
 conversion = weight_in_kilograms.__round__(3)

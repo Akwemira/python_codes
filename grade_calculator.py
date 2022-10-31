@@ -1,3 +1,5 @@
+# This program will use if, elif and else statements to display the user's grade using their score in 5 subjects
+# The user's grade will be calculated and displayed as either A,B,C,D or F.
 Physics = int(input("What is your score in Physics\n\n"))
 Chemistry = int(input("What is your score in Chemistry\n\n"))
 Biology = int(input("What is your score in Biology\n\n"))
